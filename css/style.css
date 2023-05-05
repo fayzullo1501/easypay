@@ -5736,7 +5736,7 @@ html:not(.lt-ie10) .not-animated {
 	height: 50px;
 	font-size: 20px;
 	line-height: 46px;
-	color: #ffffff;
+	color: #000;
 	background: #F8D303;
 	overflow: hidden;
 	text-align: center;
